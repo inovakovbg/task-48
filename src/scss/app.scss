@@ -27,3 +27,34 @@ html {
   font-size: 5rem;
   flex-flow: column;
 }
+
+.input[name="email"]{
+  border:2px solid red;
+  height: 100px;
+}
+
+.input[name="name"]{
+  border:2px solid red;
+  height: 100px;
+}
+
+.input[name="address"]{
+  border:2px solid red;
+  height: 100px;
+}
+
+.input[name="phone"]{
+  border:2px solid red;
+  height: 100px;
+}
+
+.input[name="color"]{
+  border:2px solid red;
+  height: 100px;
+}
+
+.input[name="delivery_date"]{
+  border:2px solid red;
+  height: 100px;
+}
+
